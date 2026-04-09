@@ -1,18 +1,17 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FdVrU54p)
-# [Project Title — e.g., Hospital Admission Records Analysis]
+# [Hospital Admission Records Analysis]
 
-> **Lab 1 starter repo** — Replace the heading above with your project title. Team member names are not part of the lab — they go in Section 2 of your completed README in the integration task.
+> **Lab 1 starter repo** — omar qoqas 
 
 ---
 
 ## Project Overview
 
-TODO: Write 2–3 sentences describing what this project does and who it is for.
-
+data analysis for hospital and eda explor for data use algorithim for classification
 ---
 
 ## Setup Instructions
-
+clone this repo if on linix /git bash run the setup.sh file
 TODO: Complete these setup steps after creating your `requirements.txt`:
 
 ```bash
@@ -29,7 +28,11 @@ python test_environment.py    # should print "Environment OK"
 ```
 
 ---
+## sorce https://www.kaggle.com/datasets/jaderz/hospital-beds-management?resource=download
 
+## Setup Instructions 
+source .venv/Scripts/activate
+##
 ## Contributing
 
 - Branch naming: `setup/`, `feature/`, `fix/`
